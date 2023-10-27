@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="./shituph.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="shituph.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>SHITAL SHIVANAND</h1>
             <p>Mastertrainer Edunet Foundation</p>
         </div>
@@ -187,3 +187,6 @@
     </script>
 </body>
 </html>
+
+        
+  
